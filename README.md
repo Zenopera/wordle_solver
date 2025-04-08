@@ -34,7 +34,7 @@ You can play Wordle here:
 
 
 
-📝 How It Works
+## 📝 How It Works
 This project consists of two key files:
 
 words.txt
@@ -44,7 +44,7 @@ wordle_solver.py
 This file contains the Python code that implements the Wordle solving algorithm. It takes your feedback (Green, Yellow, and Gray) after each guess and filters the list of possible words, narrowing down the options until it suggests the correct word in 6 attempts or fewer.
 
 
-🧩 Example Usage
+## 🧩 Example Usage
 After running the solver, you will be prompted to enter the feedback for each guess:
 
 👋 Welcome to the Wordle Assistant!
@@ -58,5 +58,5 @@ Next suggestion: STOMP
 You can continue providing feedback, and the assistant will continue to suggest the next possible words based on the feedback you provide.
 
 
-🤝 Contributing
+## 🤝 Contributing
 Feel free to contribute by submitting issues or pull requests. If you have any suggestions for improving the solver, don’t hesitate to get in touch!
